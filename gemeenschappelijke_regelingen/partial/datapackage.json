@@ -2,7 +2,7 @@
   "resources": [
     {
       "name": "gemeenschappelijke_regelingen",
-      "path": "https://raw.githubusercontent.com/ndkv/datasets/gh-pages/gemeenschappelijke_regelingen/partial/gemeenschappelijke_regelingen.csv",
+      "url": "https://raw.githubusercontent.com/ndkv/datasets/gh-pages/gemeenschappelijke_regelingen/partial/gemeenschappelijke_regelingen.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 30845,
