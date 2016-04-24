@@ -2,7 +2,7 @@
   "resources": [
     {
       "name": "overzicht.doorvoer.militaire.goederen-2005-2015",
-      "path": "Overzicht.doorvoer.militaire.goederen-2005-2015.csv",
+      "path": "data/Overzicht.doorvoer.militaire.goederen-2005-2015.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 1487709,
@@ -63,7 +63,7 @@
     },
     {
       "name": "overzicht.dual-use.goederen-2004-2015",
-      "path": "Overzicht.dual-use.goederen-2004-2015.csv",
+      "path": "data/Overzicht.dual-use.goederen-2004-2015.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 973801,
@@ -124,7 +124,7 @@
     },
     {
       "name": "overzicht.uitvoer.militaire.goederen.2004-2014",
-      "path": "Overzicht.uitvoer.militaire.goederen.2004-2014.csv",
+      "path": "data/Overzicht.uitvoer.militaire.goederen.2004-2014.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 2745548,
@@ -215,7 +215,7 @@
     },
     {
       "name": "overzichten-wapenexport-gecombineerd",
-      "path": "Overzichten-wapenexport-gecombineerd.csv",
+      "path": "data/Overzichten-wapenexport-gecombineerd.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 5146603,
