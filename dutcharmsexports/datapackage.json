@@ -15,12 +15,12 @@
           },
           {
             "name": "Consent nummer",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Aantal",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -40,12 +40,12 @@
           },
           {
             "name": "Ad-hoc J/N (***)",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "VP/AN (****)",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -172,12 +172,12 @@
           },
           {
             "name": "U/D",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "T.v.v.",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -197,12 +197,12 @@
           },
           {
             "name": "land van oorsprong",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "waarde (€)",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -228,7 +228,7 @@
           },
           {
             "name": "nummer",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -243,7 +243,7 @@
           },
           {
             "name": "aantal",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
@@ -268,27 +268,27 @@
           },
           {
             "name": "waarde",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Column 11",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Column 12",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Column 13",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "Column 14",
-            "type": "number",
+            "type": "string",
             "description": ""
           }
         ]
