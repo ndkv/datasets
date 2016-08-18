@@ -2,7 +2,7 @@
   "resources": [
     {
       "name": "gemeenschappelijke_regelingen",
-      "url": "gemeenschappelijke_regelingen.csv",
+      "path": "gemeenschappelijke_regelingen.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 30845,
