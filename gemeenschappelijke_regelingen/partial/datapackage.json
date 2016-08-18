@@ -2,7 +2,7 @@
   "resources": [
     {
       "name": "gemeenschappelijke_regelingen",
-      "url": "https://raw.githubusercontent.com/ndkv/datasets/gh-pages/gemeenschappelijke_regelingen/partial/gemeenschappelijke_regelingen.csv",
+      "url": "gemeenschappelijke_regelingen.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "bytes": 30845,
@@ -30,12 +30,12 @@
           },
           {
             "name": "CBS_GR_naam",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
             "name": "CBS_GR_code",
-            "type": "number",
+            "type": "string",
             "description": ""
           }
         ]
