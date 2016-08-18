@@ -30,7 +30,7 @@
           },
           {
             "name": "CBS_GR_naam",
-            "type": "number",
+            "type": "string",
             "description": ""
           },
           {
